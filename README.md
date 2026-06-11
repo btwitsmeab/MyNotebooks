@@ -1,3 +1,0 @@
-# gitCourse
-
-## Project notes
